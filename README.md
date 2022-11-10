@@ -1,5 +1,6 @@
 # Instructions
 
 - Open the ipynb file, comments are given where necessary.
-- test.xlsx file consist of the test run, contains links of hackathons with empty contact list
+- contacts.xlsx file consist of the list of links of hackathons which have contacts mentioned on the site
+- non_contacts.xlsx file consist of the list of links of hackathons which  do not have contacts mentioned on the site
 - DS.html consist of the dummy html file extracted using selenium
